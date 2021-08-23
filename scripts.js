@@ -18,5 +18,9 @@ let post = {
     field: `colors`,
 }
 let colors = [`red`, `blue`, `white`]
-post.field2 = "hasManyColors"
+post.field2 = "hasManyColors";
+
+console.log(2+5)
+console.log("Zuzka")
+
 
